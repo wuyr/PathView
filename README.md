@@ -4,3 +4,15 @@
 
 ![preview](https://github.com/wuyr/PathView/raw/master/preview1.gif) ![preview](https://github.com/wuyr/PathView/raw/master/preview2.gif)
 ![preview](https://github.com/wuyr/PathView/raw/master/preview3.gif) ![preview](https://github.com/wuyr/PathView/raw/master/preview4.gif)
+
+### 使用很简单
+```
+//      加载path
+        pathView.setPath(path6);
+//      设置线条宽度        
+        pathView.setLineWidth(5);
+//      设置动画模式
+        pathView.setMode(PathView.TRAIN_MODE);
+//      开始播放        
+        pathView.startAnimation();
+```
