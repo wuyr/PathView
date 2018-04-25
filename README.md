@@ -1,6 +1,6 @@
 # PathView
 # Path线条动画效果 (仿bilibili弹幕聊天室后面的线条动画)
-详细见： http://blog.csdn.net/u011387817/article/details/78817827
+### 详细见： http://blog.csdn.net/u011387817/article/details/78817827
 
 ### 使用很简单
 ```
