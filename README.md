@@ -8,7 +8,7 @@
 ### 使用很简单
 ```
 //      加载path
-        pathView.setPath(path6);
+        pathView.setPath(path);
 //      设置线条宽度        
         pathView.setLineWidth(5);
 //      设置动画模式
